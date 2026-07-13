@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayan-023/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ayan-023/Leetcode-Questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
