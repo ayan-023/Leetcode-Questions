@@ -3,11 +3,11 @@ class Solution:
         digit = "123456789"
         arr=[]
 
-        for length in range(2,10):
-            for start in range(10-length):
-                num=int(digit[start:length+start])
+        for i in range(2,10):
+            for j in range(10-i):
+                num=int(digit[j:i+j])
 
                 if low<=num<=high:
                     arr.append(num)
-
+            arr.sort()
         return arr
