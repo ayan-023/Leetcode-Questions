@@ -1,8 +1,7 @@
 class Solution:
     def trap(self, height: List[int]) -> int: 
-        n=len(height)
         left=0
-        right=n-1
+        right=len(height)-1
         left_max = height[left]
         right_max = height[right]
         water = 0
