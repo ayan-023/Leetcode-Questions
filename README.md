@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayan-023/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/ayan-023/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayan-023/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/ayan-023/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayan-023/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayan-023/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
